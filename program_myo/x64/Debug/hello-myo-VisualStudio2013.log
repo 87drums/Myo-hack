@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (emg-data-sample-VisualStudio2013.vcxproj, hello-myo-VisualStudio2013.vcxproj, multiple-myos-VisualStudio2012.vcxproj, multiple-myos-VisualStudio2013.vcxproj, MyoMidi.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  Myo.cpp
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+Myo.cpp(364): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' の宣言を確認してください
+Myo.cpp(366): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(452): note: 'getch' の宣言を確認してください
+Myo.cpp(368): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\conio.h(458): note: 'kbhit' の宣言を確認してください
+  hello-myo-VisualStudio2013.vcxproj -> D:\School\study\program\MyoSDK\program_myo\x64\Debug\Myo.exe
+          1 個のファイルをコピーしました。

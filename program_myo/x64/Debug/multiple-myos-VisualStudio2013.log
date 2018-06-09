@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中間ディレクトリ (x64\Debug\) に別のプロジェクト (emg-data-sample-VisualStudio2013.vcxproj, hello-myo-VisualStudio2013.vcxproj, multiple-myos-VisualStudio2012.vcxproj, Myo.vcxproj, MyoMidi.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  multiple-myos.cpp
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(39): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): warning C4297: 'myo::ThrowOnError::~ThrowOnError': 例外をスローしないはずだがそれをする関数。
+  d:\school\study\program\myosdk\include\myo\cxx\impl\../detail/ThrowOnError.hpp(45): note: デストラクターまたはデアロケーターに (恐らく暗黙的に) 非例外スローが指定されています。
+  multiple-myos-VisualStudio2013.vcxproj -> D:\School\study\program\MyoSDK\program_myo\x64\Debug\multiple-myos-VisualStudio2013.exe
+          1 個のファイルをコピーしました。
